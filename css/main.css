@@ -33,6 +33,10 @@ h2 {
   margin: 0 0 1.0em 0;
 }
 
+.links a{
+  text-decoration: none;
+}
+
 .introduction {
   margin: 0 0 2em 0;
 }
